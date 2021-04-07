@@ -1,7 +1,9 @@
-## Why am I sharing this>
+## Why am I sharing this
 
 * Its good to tinker with things.
-* Explore ideas, do comparisons.
+
+* Explore ideas, do comparisons.
+
 * Just fool around with no true end goal.
 
 ### This first started with me wanting to build a question / answer game in Ruby game to teach my play with my son. 
@@ -9,7 +11,7 @@
 * As well my continued Ruby refresh. (After x years of writing Elixir)
 
 
-`$> ruby bas3.rb` to start simple server - Ruby.
+`$> ruby base.rb` to start simple server - Ruby.
 
 `$> nc localhost 1337` to connect.
 

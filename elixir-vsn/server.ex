@@ -2,7 +2,7 @@ Code.require_file("elixir-vsn/ruby_client.ex")
 
 defmodule Game.Server do
   @moduledoc """
-  House soem generic logic that
+  House some generic logic that
   1. spawns a generic TCP server on port 1339
   2. listens on that port
   * input from a client <- nc localhost *
